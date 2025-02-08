@@ -1,0 +1,1 @@
+g++ src/game.cpp -lSDL2 -lSDL2main -lSDL2_ttf -lSDL2_image
